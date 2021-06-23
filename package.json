@@ -1,0 +1,23 @@
+{
+  "name": "qhxc-directives",
+  "version": "1.0.0",
+  "description": "qihangxinchen directives for vue projects ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaoerjun/directives.git"
+  },
+  "keywords": [
+    "vue",
+    "directives"
+  ],
+  "author": "gaoerjun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaoerjun/directives/issues"
+  },
+  "homepage": "https://github.com/gaoerjun/directives#readme"
+}
